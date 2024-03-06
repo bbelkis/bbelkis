@@ -1,6 +1,6 @@
 ### :woman_technologist: &nbsp;About Me :
 
-- 👋 Hi, I’m @bbelkis and I'm a data scientist working in NLP based in Paris
+- 👋 Hi, I’m Belkis and I'm a data scientist working in NLP based in Paris
 - 🌱 I’m currently learning how to build apps with LLMs
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-belkisbaccar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/belkisbaccar/)
 
